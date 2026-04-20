@@ -21,12 +21,12 @@ class Solution:
             start = max(start1, start2)
             end = min(end1, end2)
 
-            # If valid intersection exists
+            # 
             if start <= end:
                 result.append([start, end])
 
-            # Move the pointer that ends first
-            if end1 < end2:
+            
+            if end1 <= end2:
                 i += 1
             else:
                 j += 1
