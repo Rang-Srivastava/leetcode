@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Rang-Srivastava/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/Rang-Srivastava/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Rang-Srivastava/leetcode/tree/master/0057-insert-interval) |
 | [0503-next-greater-element-ii](https://github.com/Rang-Srivastava/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Rang-Srivastava/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/Rang-Srivastava/leetcode/tree/master/0344-reverse-string) |
 | [0986-interval-list-intersections](https://github.com/Rang-Srivastava/leetcode/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
